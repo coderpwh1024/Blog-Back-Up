@@ -2,6 +2,6 @@
 - 博客地址：http://coderpwh.net
 
 # 相册功能
-- 最终效果请看这里：http://coderpwh.com/
+- 最终效果请看这里：http://coderpwh.net/
  
 
